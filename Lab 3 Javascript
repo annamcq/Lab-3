@@ -1,0 +1,25 @@
+var logoImage = document.createElement("img");
+img.src = "cbc.png";
+
+
+function createPost (postInformation){
+
+   let postInformation = {
+      logoImage: "./images/cbc.png";
+
+      return logoImage; }
+    
+}
+
+var postImage = document.createElement("img");
+img.src = "lake.jpg"
+
+function createPost (postInformation) {
+
+    let postInformation = { 
+        postImage; "./images/lake.jpg";
+
+        return postImage
+    }
+
+}
